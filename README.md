@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @lunaloclet
-- 👀 I’m interested in  Data science,machine learning and GIS.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning.
-- 📫 How to reach me: lunaloclet90@gmail.com
+ Hey! I'm Cletus!
+ 
+ I love data and its important role in  decision making.I have completed several projects for academic,corporate and hobby purposes.I look forward to collbaorate with you.You can reach out: lunaloclet90@gmail.com
 
 <!---
 lunaloclet/lunaloclet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
